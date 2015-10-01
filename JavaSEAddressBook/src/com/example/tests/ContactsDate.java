@@ -20,7 +20,8 @@ public class ContactsDate {
 	}
 
 	public ContactsDate(String firstName, String lastName, String address, String home, String mobile, String work,
-			String email, String emailTwo, String birthDay, String birthMonth, String birthYear, String secondaryAddress, String secondaryHome) {
+			String email, String emailTwo, String birthDay, String birthMonth, String birthYear,
+			String secondaryAddress, String secondaryHome) {
 		this.firstName = firstName;
 		this.lastName = lastName;
 		this.address = address;
